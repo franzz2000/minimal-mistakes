@@ -1,10 +1,8 @@
 # Site navigation links
 
-- title: About
+- title: Acerca de
   url: /about/
 
-- title: Sample Posts
+- title: Instalación y uso
   url: /posts/
 
-- title: Theme Setup
-  url: /theme-setup/

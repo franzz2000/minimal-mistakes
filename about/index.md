@@ -1,25 +1,21 @@
 ---
 layout: page
-title: About the Theme
-tags: [about, Jekyll, theme, responsive]
-modified: 2014-08-08T20:53:07.573882-04:00
-comments: true
+title: Acerca de
+tags: [acerca de, infusor, paliativos, medicación]
+modified: 2016-03-02T20:53:07.573882-04:00
+comments: false
 image:
   feature: sample-image-2.jpg
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
+  credit: 
+  creditlink: 
 ---
 
-Minimal Mistakes is responsive Jekyll theme with large featured images and solid typography. As the name implies the styling is fairly minimal to make it easier for you to build on top of.
+Los infusores elastoméricos se llevan utilizando más de veinte años. Su uso ha supuesto un importante avance en la administración, tanto ambulatoria como hospitalaria, de fármacos en determinadas situaciones clínicas.
 
-## Minimal Mistakes is all about:
+Los dispositivos para la administración continua de fármacos han supuesto un importante avance en el tratamiento de los pacientes que, por su enfermedad o por el tratamiento especial que ésta precisa, necesitan valores constantes de fármaco en sangre.
 
-* Responsive templates. Looking good on mobile, tablet, and desktop.
-* Gracefully degrading in older browsers. Compatible with Internet Explorer 8+ and all modern browsers.
-* Minimal embellishments -- content first.
-* Optional large feature images for posts and pages.
-* Simple and clear permalink structure.
-* [Custom 404 page](http://mmistakes.github.io/minimal-mistakes/404.html) to get you started.
-* Support for Disqus Comments
+La aplicación web ha sido diseñada y programada por Franz Jimeno, médico especialista en Medicina Familiar y Comunitaria.
 
-<a markdown="0" href="{{ site.url }}/theme-setup" class="btn">Install Minimal Mistakes Theme</a>
+El uso de infusores elastoméricos en el control de síntomas de pacientes en atención primaria está en aumento.
+
+En muchas ocasiones los médicos tienen como limitación para su aplicación la dificultad para realizar los cálculos de la medicación necesaria
