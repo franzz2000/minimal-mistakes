@@ -5,17 +5,18 @@ tags: [acerca de, infusor, paliativos, medicación]
 modified: 2016-03-02T20:53:07.573882-04:00
 comments: false
 image:
-  feature: sample-image-2.jpg
+  feature: sample-image-1.jpg
   credit: 
   creditlink: 
 ---
+Infusor App es una aplicación, pensada para ser utilizada por profesionales sanitarios (médicos y enfermeras). Ayuda en el cálculo del volumen de medicación necesaria a utilizar en infusiones elastoméricos. Estos dispositivos se utilizan comúnmente en el tratamiento de personas que requieren medicación parenteral continua para el control de síntomas de forma ambulatoria.
 
-Los infusores elastoméricos se llevan utilizando más de veinte años. Su uso ha supuesto un importante avance en la administración, tanto ambulatoria como hospitalaria, de fármacos en determinadas situaciones clínicas.
+Aunque el cálculo de la dosis no es complicado, en ocasiones por falta de experiencia éste puede suponer una barrera para el uso de los infusores. Esta aplicación pretende ser una ayuda para los profesionales sanitarios, facilitándoles el cálculo de la cantidad necesaria de medicación a aplicar en un infusor elastomérico.
 
-Los dispositivos para la administración continua de fármacos han supuesto un importante avance en el tratamiento de los pacientes que, por su enfermedad o por el tratamiento especial que ésta precisa, necesitan valores constantes de fármaco en sangre.
+Durante el desarrollo de la aplicación, se ha intentado evitar al máximo los errores de cálculo, aunque eso no asegura que estos puedan ocurrir. Es por ello necesario, que el profesional sanitario revise todos los cálculos realizados por la aplicación, para evitar cualquier confusión o mala interpretación de los mismos.
 
-La aplicación web ha sido diseñada y programada por Franz Jimeno, médico especialista en Medicina Familiar y Comunitaria.
+AVISO: 
+El desarrollador no se responsabiliza de cualquier uso indebido de la aplicación o de cualquier interpretación errónea que se pueda hacer de los resultados que muestra la misma.
 
-El uso de infusores elastoméricos en el control de síntomas de pacientes en atención primaria está en aumento.
+Infusor App es una aplicación realizada por Franz Jimeno, médico especialista en Medicina Familiar y Comunitaria.
 
-En muchas ocasiones los médicos tienen como limitación para su aplicación la dificultad para realizar los cálculos de la medicación necesaria

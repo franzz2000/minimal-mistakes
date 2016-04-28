@@ -3,6 +3,7 @@
 title:            Infusor App
 locale:           es_ES
 url:              http://www.infusor-app.com
+#url:              http://127.0.0.1:4000
 
 
 # Jekyll configuration

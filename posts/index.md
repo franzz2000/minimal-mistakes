@@ -1,6 +1,6 @@
 ---
 layout: post-index
-title: All Posts
-excerpt: "A List of Posts"
+title: Noticias 
+excerpt: "Lista de noticias"
 
 ---
